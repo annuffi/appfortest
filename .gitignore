@@ -1,0 +1,3 @@
+log.txt
+/dir2
+// if you add this commend " *.txt" you will not track all files with this abbreviation//
